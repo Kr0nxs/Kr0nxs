@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Kr0nxs
+- 👀 I’m interested in cybersecurity
+- 🌱 I’m currently learning Javascript and Python
+- 💞️ I’m looking to collaborate on a proxy website that is unblocked for school.
